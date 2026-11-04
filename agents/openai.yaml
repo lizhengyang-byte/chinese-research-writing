@@ -1,0 +1,5 @@
+interface:
+  display_name: "Chinese Research Writing"
+  short_description: "中文研究写作、证据地图与长文 markdown 交付"
+  category: "writing"
+  default_prompt: "Use $chinese-research-writing to produce a source-grounded Chinese outline, draft, or final manuscript in markdown."
